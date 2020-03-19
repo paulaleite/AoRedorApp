@@ -1,4 +1,4 @@
-POLÍTICA DE PRIVACIDADE
+POLÍTICA DE PRIVACIDADE DE AOREDOR
 
 Informação no aplicativo: O aplicativo AoRedor não coleta nenhum tipo de informação dos usuários. 
 Os únicos dados utilizados nas funcionalidades da aplicação são guardados dentro do celular. Em qualquer 
